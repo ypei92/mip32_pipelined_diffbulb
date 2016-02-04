@@ -1,0 +1,175 @@
+m255
+K3
+13
+cModel Technology
+dD:\modelttech_10.0c\win64
+vALU
+Vj:Jh<SeB_Rg97oa]YM2D]3
+r1
+31
+IY<3_2;57WH^83B=18^e0V3
+Z0 dD:\verilog\MIPS Pipeline v8
+w1389188803
+8D:/verilog/MIPS Pipeline v8/ALU.v
+FD:/verilog/MIPS Pipeline v8/ALU.v
+L0 3
+Z1 OL;L;10.0c;49
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@a@l@u
+!s85 0
+!s100 nCRfN[Amii3gXI]j1V7^30
+!s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/verilog/MIPS Pipeline v8/ALU.v|
+!s108 1389189302.104000
+!s107 DesignName_parameters.v|D:/verilog/MIPS Pipeline v8/ALU.v|
+vControl
+VWPUD=Y]B_TG[h2SPLIUD83
+r1
+31
+Ik8Z2cbS0SMN:^:E4jR;O03
+Z4 dD:\verilog\MIPS Pipeline v8
+w1389189048
+8D:/verilog/MIPS Pipeline v8/Control.v
+FD:/verilog/MIPS Pipeline v8/Control.v
+L0 3
+R1
+R2
+R3
+n@control
+!s85 0
+!s100 IaECIO@81Z0kZ_cDF5PB`3
+!s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/verilog/MIPS Pipeline v8/Control.v|
+!s108 1389189302.419000
+!s107 DesignName_parameters.v|D:/verilog/MIPS Pipeline v8/Control.v|
+vData_Memory
+V1>WZj[ci0JG:K=AZmYLOS0
+r1
+31
+IN]`1NND9f_TWb9XD_CFP31
+R4
+w1389189141
+8D:/verilog/MIPS Pipeline v8/Data_Memory.v
+FD:/verilog/MIPS Pipeline v8/Data_Memory.v
+L0 2
+R1
+R2
+R3
+n@data_@memory
+!s85 0
+!s100 =FV`C9[W72bc8gV4EJI4z3
+!s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/verilog/MIPS Pipeline v8/Data_Memory.v|
+!s108 1389189302.869000
+!s107 DesignName_parameters.v|D:/verilog/MIPS Pipeline v8/Data_Memory.v|
+vforwarding_2
+I3Y]kSaBUA3IZnC_Na_NE23
+VGjbmoEVQQobzM^3@?35?;1
+R4
+Z5 w1389188460
+8D:/verilog/MIPS Pipeline v8/forwarding_2.v
+FD:/verilog/MIPS Pipeline v8/forwarding_2.v
+L0 3
+R1
+r1
+31
+R2
+R3
+!s100 8L:NU>@:<BhV3@2giLaC50
+!s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/verilog/MIPS Pipeline v8/forwarding_2.v|
+!s108 1389189303.549000
+!s107 DesignName_parameters.v|D:/verilog/MIPS Pipeline v8/forwarding_2.v|
+!s85 0
+vHazard_Detector
+Vbf@J8_JzY9GB36i5=_14>2
+r1
+31
+IR@B1]Q]XQ1^N`_NFBID`K0
+R4
+R5
+8D:/verilog/MIPS Pipeline v8/Hazard_Detector.v
+FD:/verilog/MIPS Pipeline v8/Hazard_Detector.v
+L0 2
+R1
+R2
+R3
+n@hazard_@detector
+!s85 0
+!s100 V?zliR574`KHGF[S=URP_0
+!s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/verilog/MIPS Pipeline v8/Hazard_Detector.v|
+!s108 1389189303.977000
+!s107 DesignName_parameters.v|D:/verilog/MIPS Pipeline v8/Hazard_Detector.v|
+vInstruction_Memory
+Vm4NT5REOAYfnb2BZ`m6M82
+r1
+31
+ILZX6_Vm1V@?6QcLmPJPgd0
+R4
+R5
+8D:/verilog/MIPS Pipeline v8/Instruction_Memory.v
+FD:/verilog/MIPS Pipeline v8/Instruction_Memory.v
+L0 2
+R1
+R2
+R3
+n@instruction_@memory
+!s85 0
+!s100 0UI2JIVI:OP]:``@@8TTC1
+!s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/verilog/MIPS Pipeline v8/Instruction_Memory.v|
+!s108 1389189304.306000
+!s107 DesignName_parameters.v|D:/verilog/MIPS Pipeline v8/Instruction_Memory.v|
+vPC_Select
+VbFbe22G:3j:jiEY[:9=bH3
+r1
+!s85 0
+31
+Ik:NX<omoYz[;R:13UeL]i1
+R4
+R5
+8D:/verilog/MIPS Pipeline v8/PC_Select.v
+FD:/verilog/MIPS Pipeline v8/PC_Select.v
+L0 2
+R1
+R2
+R3
+n@p@c_@select
+!s100 o>z_eNK`JLUom8jRQKm8Q0
+!s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/verilog/MIPS Pipeline v8/PC_Select.v|
+!s108 1389189304.661000
+!s107 DesignName_parameters.v|D:/verilog/MIPS Pipeline v8/PC_Select.v|
+vRegisters
+V?CQQU4PP:hUHOC]LR6@Ef2
+r1
+31
+IS7[OneMIIk=43Ab4fi=1S3
+R4
+w1389188959
+8D:/verilog/MIPS Pipeline v8/Registers.v
+FD:/verilog/MIPS Pipeline v8/Registers.v
+L0 2
+R1
+R2
+R3
+n@registers
+!s85 0
+!s100 zZBdT`B8@z^iG`LoaWBj:3
+!s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/verilog/MIPS Pipeline v8/Registers.v|
+!s108 1389189305.022000
+!s107 DesignName_parameters.v|D:/verilog/MIPS Pipeline v8/Registers.v|
+vTop
+VDhf`FYCil>S4D0z@AIigU3
+r1
+31
+I`C1mm;]lIhfCXSG1065?o2
+R4
+w1389189294
+8D:/verilog/MIPS Pipeline v8/Top_pipeline.v
+FD:/verilog/MIPS Pipeline v8/Top_pipeline.v
+L0 14
+R1
+R2
+R3
+n@top
+!s85 0
+!s100 aAR_NjNQh7z@F[moZPQY[2
+!s90 -reportprogress|300|-work|work|-vopt|-nocovercells|D:/verilog/MIPS Pipeline v8/Top_pipeline.v|
+!s108 1389189305.371000
+!s107 DesignName_parameters.v|D:/verilog/MIPS Pipeline v8/Top_pipeline.v|

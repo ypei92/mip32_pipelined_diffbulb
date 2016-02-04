@@ -1,0 +1,60 @@
+{D:/verilog/MIPS Pipeline v8/Top_pipeline.v} {1 {vlog -work work -vopt -nocovercells {D:/verilog/MIPS Pipeline v8/Top_pipeline.v}
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module Top
+
+Top level modules:
+	Top
+
+} {} {}} {D:/verilog/MIPS Pipeline v8/Registers.v} {1 {vlog -work work -vopt -nocovercells {D:/verilog/MIPS Pipeline v8/Registers.v}
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module Registers
+
+Top level modules:
+	Registers
+
+} {} {}} {D:/verilog/MIPS Pipeline v8/forwarding_2.v} {1 {vlog -work work -vopt -nocovercells {D:/verilog/MIPS Pipeline v8/forwarding_2.v}
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module forwarding_2
+
+Top level modules:
+	forwarding_2
+
+} {} {}} {D:/verilog/MIPS Pipeline v8/Control.v} {1 {vlog -work work -vopt -nocovercells {D:/verilog/MIPS Pipeline v8/Control.v}
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} {D:/verilog/MIPS Pipeline v8/ALU.v} {1 {vlog -work work -vopt -nocovercells {D:/verilog/MIPS Pipeline v8/ALU.v}
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/verilog/MIPS Pipeline v8/PC_Select.v} {1 {vlog -work work -vopt -nocovercells {D:/verilog/MIPS Pipeline v8/PC_Select.v}
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module PC_Select
+
+Top level modules:
+	PC_Select
+
+} {} {}} {D:/verilog/MIPS Pipeline v8/Instruction_Memory.v} {1 {vlog -work work -vopt -nocovercells {D:/verilog/MIPS Pipeline v8/Instruction_Memory.v}
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module Instruction_Memory
+
+Top level modules:
+	Instruction_Memory
+
+} {} {}} {D:/verilog/MIPS Pipeline v8/DesignName_parameters.v} {1 {vlog -work work -vopt -nocovercells {D:/verilog/MIPS Pipeline v8/DesignName_parameters.v}
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+
+} {} {}} {D:/verilog/MIPS Pipeline v8/Hazard_Detector.v} {1 {vlog -work work -vopt -nocovercells {D:/verilog/MIPS Pipeline v8/Hazard_Detector.v}
+Model Technology ModelSim SE-64 vlog 10.0c Compiler 2011.07 Jul 21 2011
+-- Compiling module Hazard_Detector
+
+Top level modules:
+	Hazard_Detector
+
+} {} {}}
